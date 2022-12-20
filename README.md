@@ -1,7 +1,7 @@
 ### Hi there 👋
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=softwarepleb)](https://github.com/anuraghazra/github-readme-stats)
-![](https://raw.githubusercontent.com/softwarepleb/github-stats/master/generated/overview.svg#gh-light-mode-only)
-![](https://raw.githubusercontent.com/softwarepleb/github-stats/master/generated/languages.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/Softwarepleb/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/Softwarepleb/github-stats/master/generated/languages.svg#gh-light-mode-only)
 <!--
 **SoftwarePleb/Softwarepleb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
