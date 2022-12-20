@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-![](https://raw.githubusercontent.com/SoftwarePleb/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/SoftwarePleb/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/SoftwarePleb/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/SoftwarePleb/github-stats/blob/master/generated/overview.svg#gh-light-mode-only)
 
-![](https://raw.githubusercontent.com/SoftwarePleb/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/SoftwarePleb/github-stats/master/generated/languages.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/SoftwarePleb/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/SoftwarePleb/github-stats/blob/master/generated/languages.svg#gh-light-mode-only)
 
 Display your own github statistics
 https://github.com/jstrieb/github-stats
