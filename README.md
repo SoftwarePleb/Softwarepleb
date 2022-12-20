@@ -1,13 +1,15 @@
 ### Hi there 👋
 
-![](https://raw.githubusercontent.com/SoftwarePleb/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/SoftwarePleb/github-stats/blob/master/generated/overview.svg#gh-light-mode-only)
+
+-🔭 I’m currently working on this page.
+
+![](https://raw.githubusercontent.com/SoftwarePleb/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/SoftwarePleb/github-stats/master/generated/overview.svg#gh-light-mode-only)
 
 ![](https://raw.githubusercontent.com/SoftwarePleb/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/SoftwarePleb/github-stats/blob/master/generated/languages.svg#gh-light-mode-only)
 
-Display your own github statistics
-https://github.com/jstrieb/github-stats
+[Display your own github statistics](https://github.com/jstrieb/github-stats)
 
 <!--
 **SoftwarePleb/Softwarepleb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
