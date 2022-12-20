@@ -1,5 +1,4 @@
 ### Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=softwarepleb)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://raw.githubusercontent.com/SoftwarePleb/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/SoftwarePleb/github-stats/master/generated/overview.svg#gh-light-mode-only)
@@ -7,6 +6,7 @@
 ![](https://raw.githubusercontent.com/SoftwarePleb/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/SoftwarePleb/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
+Get your own personalised stats below.
 https://github.com/jstrieb/github-stats
 
 <!--
