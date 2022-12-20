@@ -6,7 +6,7 @@
 ![](https://raw.githubusercontent.com/SoftwarePleb/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/SoftwarePleb/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
-Get your own personalised stats below.
+Display your own github statistics
 https://github.com/jstrieb/github-stats
 
 <!--
