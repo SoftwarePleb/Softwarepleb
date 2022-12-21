@@ -8,8 +8,6 @@
 
 -⚡ Fun fact: I come from New Zealand.
 
--😄 Pronouns: he/him
-
 -📫 How to reach me: softwarepleb99@gmail.com.
 
 ![SoftwarePleb's Github language stats](https://raw.githubusercontent.com/SoftwarePleb/github-stats/master/generated/overview.svg#gh-dark-mode-only)
