@@ -12,8 +12,10 @@
 
 -📫 How to reach me: softwarepleb99@gmail.com.
 
-![SoftwarePleb's Github language stats](https://github.com/SoftwarePleb/github-stats/blob/master/generated/languages.svg)
-![SoftwarePleb's Github overview stats](https://github.com/SoftwarePleb/github-stats/blob/master/generated/overview.svg)
+![SoftwarePleb's Github language stats](https://raw.githubusercontent.com/SoftwarePleb/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![SoftwarePleb's Github language stats](https://raw.githubusercontent.com/SoftwarePleb/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![SoftwarePleb's Github overview stats](https://raw.githubusercontent.com/SoftwarePleb/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![SoftwarePleb's Github overview stats](https://raw.githubusercontent.com/SoftwarePleb/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
 [Display your own github statistics](https://github.com/jstrieb/github-stats)
 
