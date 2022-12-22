@@ -10,6 +10,12 @@
 
 -📫 How to reach me: softwarepleb99@gmail.com.
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
+
 ![SoftwarePleb's Github language stats](https://raw.githubusercontent.com/SoftwarePleb/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![SoftwarePleb's Github language stats](https://raw.githubusercontent.com/SoftwarePleb/github-stats/master/generated/overview.svg#gh-light-mode-only)
 ![SoftwarePleb's Github overview stats](https://raw.githubusercontent.com/SoftwarePleb/github-stats/master/generated/languages.svg#gh-dark-mode-only)
