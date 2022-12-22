@@ -22,7 +22,7 @@ At university I primailry worked in Java and Python, but have recently started l
 </p>
 -->
 
-<img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,python,java,r,dotnet" />
+<img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,python,java,r,dotnet,javascript,react" />
 
 ![SoftwarePleb's Github language stats](https://raw.githubusercontent.com/SoftwarePleb/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![SoftwarePleb's Github language stats](https://raw.githubusercontent.com/SoftwarePleb/github-stats/master/generated/overview.svg#gh-light-mode-only)
