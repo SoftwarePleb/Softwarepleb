@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm SoftwarePleb, a graduate in datascience and software development. 
+
+At university I primailry worked in Java and Python, but have recently started learning more new skills, especially tools that assist in devops like Git, Docker, and Kubernetes. 
+
 -🔭 I’m currently working on this page.
 
 -👯 I’m looking to collaborate on .net and python applications.
@@ -10,11 +14,15 @@
 
 -📫 How to reach me: softwarepleb99@gmail.com.
 
+<!--
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,python,java,r,dotnet" />
   </a>
 </p>
+-->
+
+<img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,python,java,r,dotnet" />
 
 ![SoftwarePleb's Github language stats](https://raw.githubusercontent.com/SoftwarePleb/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![SoftwarePleb's Github language stats](https://raw.githubusercontent.com/SoftwarePleb/github-stats/master/generated/overview.svg#gh-light-mode-only)
