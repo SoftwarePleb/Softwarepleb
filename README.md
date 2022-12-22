@@ -4,6 +4,8 @@ I'm SoftwarePleb, a graduate in datascience and software development.
 
 At university I primailry worked in Java and Python, but have recently started learning more new skills, especially tools that assist in devops like Git, Docker, and Kubernetes. 
 
+In my own time I've been working in more languages to better understand web development. these have been centered around .NET and js react.
+
 -🔭 I’m currently working on this page.
 
 -👯 I’m looking to collaborate on .net and python applications.
