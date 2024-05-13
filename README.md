@@ -26,7 +26,7 @@ A big motivation for coding is learning so natuarally I prefer to use different 
 </p>
 -->
 
-<img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,python,java,r,dotnet,javascript,react" />
+<img src="https://skillicons.dev/icons?i=git,c,python,java,r,dotnet,javascript,angular" />
 
 ![SoftwarePleb's Github language stats](https://raw.githubusercontent.com/SoftwarePleb/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![SoftwarePleb's Github language stats](https://raw.githubusercontent.com/SoftwarePleb/github-stats/master/generated/overview.svg#gh-light-mode-only)
