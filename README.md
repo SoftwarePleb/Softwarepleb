@@ -1,18 +1,20 @@
 ### Hi there 👋
 
-I'm SoftwarePleb, a graduate in datascience and software development. 
+I'm SoftwarePleb, 
 
-At university I primailry worked in Java and Python, but have recently started learning more new skills, especially tools that assist in devops like Git, Docker, and Kubernetes. 
+A Full Stack Software Eningeer. At Work I mostly use C#, Javascript and Powershell.
 
-In my own time I've been working in more languages to better understand web development. these have been centered around .NET and js react.
+In my own time I've been working in languages like c, python and r.
 
--🔭 I’m currently working on this page.
+A big motivation for coding is learning so natuarally I prefer to use different languages and projects than I make at work.
 
--👯 I’m looking to collaborate on .net and python applications.
+-🔭 I’m currently working on an http server written in c.
 
--🌱 I’m currently learning Kubernetes.
+-👯 I’m looking to collaborate on c or go projects.
 
--⚡ Fun fact: I come from New Zealand.
+-🌱 I’m currently learning x64 assembly.
+
+-⚡ Fun fact: There are only two doubly-landlocked countries in the world, meaning they are a landlocked country surrounded on all sides by landlocked countries. They are Liechtenstein and Uzbekistan.
 
 -📫 How to reach me: softwarepleb99@gmail.com.
 
