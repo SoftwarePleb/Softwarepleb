@@ -12,7 +12,7 @@ A big motivation for coding is learning so natuarally I prefer to use different 
 
 -👯 I’m looking to collaborate on c or go projects.
 
--🌱 I’m currently learning x64 assembly.
+-🌱 I’m currently learning x86 assembly.
 
 -⚡ Fun fact: There are only two doubly-landlocked countries in the world, meaning they are a landlocked country surrounded on all sides by landlocked countries. They are Liechtenstein and Uzbekistan.
 
