@@ -1,8 +1,6 @@
-### Hi there 👋
+### SoftwarePleb
 
-I'm SoftwarePleb, 
-
-A Full Stack Software Eningeer. At Work I mostly use C#, Javascript and Powershell.
+Full Stack Software Eningeer. At Work I mostly use C#, Javascript and Powershell.
 
 <!--
 <p align="center">
