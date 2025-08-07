@@ -7,7 +7,7 @@ A Full Stack Software Eningeer. At Work I mostly use C#, Javascript and Powershe
 <!--
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,python,java,r,dotnet" />
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,python,java,go,c#,powershell,javascript,postgres" />
   </a>
 </p>
 -->
